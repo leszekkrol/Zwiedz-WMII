@@ -26,10 +26,10 @@ Poniżej znajdziecie kilka zrzutów ekranwu prezentujących wygląd odtworzonego
 
 ---
 
-## Autorzy
+## O autorach
 
-Autorami przedsięwzięcia są:
-- Leszek W. Król
-- Piotr Woźnicki
+Autorami przedsięwzięcia <b>Zwiedź Wydział Matematyki i Informatyki UWM w Olsztynie</b> są:
+- <b>Leszek W. Król</b>
+- <b>Piotr Woźnicki</b>
 
 Projekt został udostępniony w oparciu o licencję Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
