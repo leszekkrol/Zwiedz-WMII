@@ -14,9 +14,9 @@ Podczas realizacji naszego przedsięwzięcia w roku 2013 staraliśmy się dokume
 - Alpha teaser: https://www.youtube.com/watch?v=NybKyOtuepE&t=1s
 
 ## Decyzja o udostępnieniu projektu 
-W trakcie letniego porządkowania mieszkania przypadkowo odkopaliśmy dysk zawierający <b>Projekt Zwiedź WMiI</b> i postanowiliśmy w pewnej części udostepnić go na platformie Github. W tym celu projekt został odświeżony i przeniesiony do najświeższej wersji Unity 2021.2.0f1
+W trakcie letniego porządkowania mieszkania przypadkowo odkopaliśmy dysk zawierający <b>Projekt Zwiedź WMiI</b>. Postanowiliśmy w pewnej części udostepnić go na platformie Github, dlatego został on odświeżony i przeniesiony do najświeższej dostepnej wersji Unity 2021.2.0f1
 
-Poniżej znajdziecie kilka zrzutów ekranwu prezentujących wygląd odtworzonego w świecie wirtualnym Wydziału Matematyki i Informatyki UWM w Olsztynie.
+Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd odtworzonego w świecie wirtualnym Wydziału Matematyki i Informatyki UWM w Olsztynie.
 
 ![251857717_313658946882881_2079906159939065753_n](https://user-images.githubusercontent.com/10097678/139719784-5660d101-4494-489b-b8d5-aa522533c3a2.jpg)
 
