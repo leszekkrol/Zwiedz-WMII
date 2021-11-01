@@ -22,6 +22,8 @@ Poniżej znajdziecie kilka zrzutów ekranwu prezentujących wygląd odtworzonego
 
 ![251614510_312317863682285_2017705829103062192_n](https://user-images.githubusercontent.com/10097678/139719787-933b882e-7970-49dd-bab8-b6b10372c4d4.jpg)
 
+<img width="1460" alt="Zrzut ekranu 2021-11-1 o 20 10 53" src="https://user-images.githubusercontent.com/10097678/139727652-c072eb0f-df58-4caf-ba4b-bdde5c6329ab.png">
+
 ---
 
 ## Autorzy
