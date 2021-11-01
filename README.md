@@ -20,7 +20,7 @@ Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd od
 
 ![251857717_313658946882881_2079906159939065753_n](https://user-images.githubusercontent.com/10097678/139719784-5660d101-4494-489b-b8d5-aa522533c3a2.jpg)
 
-![251614510_312317863682285_2017705829103062192_n](https://user-images.githubusercontent.com/10097678/139719787-933b882e-7970-49dd-bab8-b6b10372c4d4.jpg)
+<img width="1466" alt="Zrzut ekranu 2021-11-1 o 20 15 26" src="https://user-images.githubusercontent.com/10097678/139728129-bf7bbf25-e9cb-4c32-9909-0946bbcc04ea.png">
 
 <img width="1460" alt="Zrzut ekranu 2021-11-1 o 20 10 53" src="https://user-images.githubusercontent.com/10097678/139727652-c072eb0f-df58-4caf-ba4b-bdde5c6329ab.png">
 
