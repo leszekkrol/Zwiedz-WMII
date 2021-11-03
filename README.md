@@ -5,6 +5,10 @@
 
 ![999094_558909894176441_1156966441_n](https://user-images.githubusercontent.com/10097678/139720386-a2ecc6e0-dac4-4810-9884-03b8b954845b.png)
 
+## Wymagania
+- [X] Komputer PC / Mac / Linux ze wsparciem DirectX 10 lub wyżej
+- [X] Unity 2021.2.0f1 lub wyżej
+
 ---
 
 ## Więcej o procesie produkcji
@@ -26,18 +30,18 @@ Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd od
 
 ---
 
+## O autorach
+
+Autorami przedsięwzięcia <b>Zwiedź Wydział Matematyki i Informatyki UWM w Olsztynie</b> jest dwoje przyjaciół:
+- <b>Leszek W. Król</b>
+- <b>Piotr Woźnicki</b>
+
 ## Raporty o błędach i prośby o nowe funkcje
 
 Użyj narzędzia do śledzenia problemów (Issue Tracker), aby przesłać wszelkie raporty o błędach i prośby o nowe funkcje. W przypadku raportów o błędach, pamiętaj aby przesłac więcej informacji o swojej platformie i używanych wersjach bibliotek.
 
----
-
-## O autorach
-
-Autorami przedsięwzięcia <b>Zwiedź Wydział Matematyki i Informatyki UWM w Olsztynie</b> są:
-- <b>Leszek W. Król</b>
-- <b>Piotr Woźnicki</b>
-
 ## Warunki licencji i użytkowania
 
-Projekt został udostępniony w oparciu o licencję Creative Commons Attribution NonCommercial NoDerivatives 4.0 International i podlega wszystkim jej zapisom.
+Projekt został udostępniony w oparciu o licencję Creative Commons Attribution NonCommercial NoDerivatives 4.0 International
+
+<a href="https://www.buymeacoffee.com/leszekkrol" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
