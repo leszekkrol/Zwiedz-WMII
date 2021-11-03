@@ -7,14 +7,14 @@
 
 ---
 
-## Proces tworzenia
-Podczas realizacji naszego przedsięwzięcia w roku 2013 staraliśmy się dokumentować niektóre etapy naszej pracy. Dzięki czemu na portalu YouTube znajdziecie parę nagrań z procesu powstawania naszej wizualizacji:
+## Więcej o procesie produkcji
+Podczas realizacji naszego przedsięwzięcia w roku 2013 staraliśmy się dokumentować niektóre etapy naszej pracy. Dzięki czemu na portalu YouTube znajdziecie parę nagrań z procesu powstawania wizualizacji wydziału:
 
 - Modelowanie biurka: https://www.youtube.com/watch?v=AJ6R1muCwkk&t=3s
 - Alpha teaser: https://www.youtube.com/watch?v=NybKyOtuepE&t=1s
 
 ## Decyzja o udostępnieniu projektu 
-W trakcie letniego porządkowania mieszkania przypadkowo odkopaliśmy dysk zawierający <b>Projekt Zwiedź WMiI</b>. Postanowiliśmy w pewnej części udostepnić go na platformie Github, dlatego został on odświeżony i przeniesiony do najświeższej dostepnej wersji Unity 2021.2.0f1
+W trakcie letniego porządkowania mieszkania przypadkowo odkopaliśmy dysk zawierający <b>Projekt Zwiedź WMiI</b>. Jako, że nie wierzymy w przypadki, postanowiliśmy w pewnej części udostepnić go na platformie Github, dlatego został on odświeżony i przeniesiony do najświeższej dostepnej wersji Unity 2021.2.0f1
 
 Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd odtworzonego w świecie wirtualnym Wydziału Matematyki i Informatyki UWM w Olsztynie.
 
