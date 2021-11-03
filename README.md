@@ -26,10 +26,18 @@ Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd od
 
 ---
 
+## Raporty o błędach i prośby o nowe funkcje
+
+Użyj narzędzia do śledzenia problemów (Issue Tracker), aby przesłać wszelkie raporty o błędach i prośby o nowe funkcje. W przypadku raportów o błędach, pamiętaj aby przesłac więcej informacji o swojej platformie i używanych wersjach bibliotek.
+
+---
+
 ## O autorach
 
 Autorami przedsięwzięcia <b>Zwiedź Wydział Matematyki i Informatyki UWM w Olsztynie</b> są:
 - <b>Leszek W. Król</b>
 - <b>Piotr Woźnicki</b>
 
-Projekt został udostępniony w oparciu o licencję Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+## Warunki licencji i użytkowania
+
+Projekt został udostępniony w oparciu o licencję Creative Commons Attribution NonCommercial NoDerivatives 4.0 International i podlega wszystkim jej zapisom.
