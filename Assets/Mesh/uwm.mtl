@@ -1,0 +1,465 @@
+# Blender MTL File: 'szyby.blend'
+# Material Count: 49
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\chropowate atlas.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\gumowa podloga2 atlas.png
+
+newmtl Material.001_gumowa_podloga3.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\gumowa podloga3.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002_tile6_atlas.tga.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile6 atlas.tga
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.040688 0.053474 0.069712
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.040688 0.053474 0.069712
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003_ramki.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.040688 0.053474 0.069712
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\ramki.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.539078 0.346196 0.165987
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\Drzwi atlas.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.539078 0.195561 0.027537
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.005_Drzwi_atlas.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.539078 0.195561 0.027537
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\Drzwi atlas.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.300599 0.099009 0.025329
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\Drzwi atlas.png
+
+newmtl Material.008
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020413 0.078231 0.224807
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_gumowa_podloga.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\gumowa podloga.png
+
+newmtl Material_gumowa_podloga3.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\gumowa podloga3.png
+
+newmtl Material_kafelki_atlas.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\kafelki atlas.png
+
+newmtl Material_schody_atlas.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\schody atlas.tga
+
+newmtl Material_schody_atlas.tga.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\schody atlas.tga
+
+newmtl Material_sciana2_atlas.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\sciana2 atlas.png
+
+newmtl Material_tile1_atlas.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile1 atlas.tga
+
+newmtl Material_tile2_atlas.tga.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile2 atlas.tga
+
+newmtl Material_tile3_atlas.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile3 atlas.tga
+
+newmtl Material_tile4_atlas.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile4 atlas.tga
+
+newmtl Material_tile6.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\mat\tile6.tga
+
+newmtl Material_tile6_atlas.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\tile6 atlas.tga
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_Drzwi_atlas.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\Drzwi atlas.png
+
+newmtl None_chropowate_atlas.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\chropowate atlas.png
+
+newmtl None_gumowa_podloga.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\gumowa podloga.png
+
+newmtl None_gumowa_podloga2_atlas.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\gumowa podloga2 atlas.png
+
+newmtl None_gumowa_podloga3.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\gumowa podloga3.png
+
+newmtl None_gumowa_podloga_atlas4.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\gumowa podloga atlas4.png
+
+newmtl None_krzeslo2_atlas.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\krzeslo2 atlas.png
+
+newmtl None_schody_atlas.tga
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\schody atlas.tga
+
+newmtl None_tile3_atlas.tga
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd E:\atlas\tile3 atlas.tga
+
+newmtl None_untitled.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_untitled.002
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl okno.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020287 0.029846 0.041775
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl okno.001_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020287 0.029846 0.041775
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl okno.001_schody_atlas.tga.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020287 0.029846 0.041775
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\schody atlas.tga
+
+newmtl sciana
+Ns 68.627451
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.540929 0.289821
+Ks 0.023179 0.023179 0.023179
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\sciana2 atlas.png
+
+newmtl sciana_NONE
+Ns 68.627451
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.540929 0.289821
+Ks 0.023179 0.023179 0.023179
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl sciana_sciana2_atlas.png.001
+Ns 68.627451
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.540929 0.289821
+Ks 0.023179 0.023179 0.023179
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\sciana2 atlas.png
+
+newmtl szklo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024851 0.020817 0.022493
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl szklo.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.003383 0.023289 0.181267
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\krzeslo.png
+
+newmtl szklo.001_krzeslo_atlas.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.003383 0.023289 0.181267
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\atlas\krzeslo atlas.png
+
+newmtl szklo_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024851 0.020817 0.022493
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
