@@ -33,12 +33,12 @@ Poniżej znajdziecie również kilka zrzutów ekranwu prezentujących wygląd od
 ## O autorach
 
 Autorami przedsięwzięcia <b>Zwiedź Wydział Matematyki i Informatyki UWM w Olsztynie</b> jest dwoje przyjaciół:
-- <b>Leszek W. Król</b>
-- <b>Piotr Woźnicki</b>
+- <b><a href="http://linkedin.com/in/leszekkrol/">Leszek W. Król</a></b>
+- <b><a href="https://www.linkedin.com/in/piotr-woźnicki-568a35144/">Piotr Woźnicki</a></b>
 
 ## Raporty o błędach i prośby o nowe funkcje
 
-Użyj narzędzia do śledzenia problemów (Issue Tracker), aby przesłać wszelkie raporty o błędach i prośby o nowe funkcje. W przypadku raportów o błędach, pamiętaj aby przesłac więcej informacji o swojej platformie i używanych wersjach bibliotek.
+Użyj narzędzia do śledzenia problemów (Issue Tracker), aby przesłać wszelkie raporty o błędach i prośby o nowe funkcje. W przypadku raportów o błędach, pamiętaj aby przesłac więcej informacji o konfiguracji sprzętu na którym pracujesz oraz używanych wersjach bibliotek.
 
 ## Warunki licencji i użytkowania
 
