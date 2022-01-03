@@ -44,4 +44,4 @@ Użyj narzędzia do śledzenia problemów (Issue Tracker), aby przesłać wszelk
 
 Projekt został udostępniony w oparciu o licencję Creative Commons Attribution NonCommercial NoDerivatives 4.0 International
 
-<a href="https://www.buymeacoffee.com/leszekkrol" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://buycoffee.to/leszekkrol" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 200px" alt="Postaw mi kawę na buycoffee.to"></a>
