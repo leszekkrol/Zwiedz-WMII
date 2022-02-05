@@ -7,7 +7,7 @@
 
 ## Wymagania
 - [X] Komputer PC / Mac / Linux ze wsparciem DirectX 10 lub wyżej
-- [X] Unity 2021.2.0f1 lub wyżej
+- [X] Unity 2021.2.9f1 lub wyżej
 
 ---
 
