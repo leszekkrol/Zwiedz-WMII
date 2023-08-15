@@ -5,6 +5,8 @@
 
 ![999094_558909894176441_1156966441_n](https://user-images.githubusercontent.com/10097678/139720386-a2ecc6e0-dac4-4810-9884-03b8b954845b.png)
 
+https://github.com/leszekkrol/Zwiedz-WMII/assets/10097678/abda1715-2348-4b73-891f-293c02355315
+
 ## 🛠 Wymagania
 - [X] Komputer PC / Mac / Linux ze wsparciem DirectX 10 lub wyżej
 - [X] Unity 2021.2.9f1 lub wyżej
